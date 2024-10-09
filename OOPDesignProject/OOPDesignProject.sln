@@ -1,0 +1,59 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35219.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OOPDesignProject.AppHost", "OOPDesignProject.AppHost\OOPDesignProject.AppHost.csproj", "{046146A8-281D-447D-94AC-31C73F91CC87}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OOPDesignProject.ServiceDefaults", "OOPDesignProject.ServiceDefaults\OOPDesignProject.ServiceDefaults.csproj", "{A5DC1D5E-A7CF-474C-AD64-CC1B719009C6}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OOPDesignProject.ApiService", "OOPDesignProject.ApiService\OOPDesignProject.ApiService.csproj", "{C966349C-6AA7-41F3-A8A3-A393A8BCD934}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OOPDesignProject.Web", "OOPDesignProject.Web\OOPDesignProject.Web.csproj", "{8D7EA849-ECD2-4055-8ECD-F614DE263D55}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OOPDesignProject.Tests", "OOPDesignProject.Tests\OOPDesignProject.Tests.csproj", "{2860AED5-B47B-4B5F-BD36-4F3D73275783}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "OOPSolutions", "OOPSolutions", "{9FBF0DF9-CEDB-4692-BB91-8FF4576037F0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOPDesign", "OOPDesign\OOPDesign.csproj", "{ADBC4A32-F721-4FF2-849C-6D40A003DBE2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{046146A8-281D-447D-94AC-31C73F91CC87}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{046146A8-281D-447D-94AC-31C73F91CC87}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{046146A8-281D-447D-94AC-31C73F91CC87}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{046146A8-281D-447D-94AC-31C73F91CC87}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A5DC1D5E-A7CF-474C-AD64-CC1B719009C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5DC1D5E-A7CF-474C-AD64-CC1B719009C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5DC1D5E-A7CF-474C-AD64-CC1B719009C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5DC1D5E-A7CF-474C-AD64-CC1B719009C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C966349C-6AA7-41F3-A8A3-A393A8BCD934}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C966349C-6AA7-41F3-A8A3-A393A8BCD934}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C966349C-6AA7-41F3-A8A3-A393A8BCD934}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C966349C-6AA7-41F3-A8A3-A393A8BCD934}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D7EA849-ECD2-4055-8ECD-F614DE263D55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D7EA849-ECD2-4055-8ECD-F614DE263D55}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D7EA849-ECD2-4055-8ECD-F614DE263D55}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D7EA849-ECD2-4055-8ECD-F614DE263D55}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2860AED5-B47B-4B5F-BD36-4F3D73275783}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2860AED5-B47B-4B5F-BD36-4F3D73275783}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2860AED5-B47B-4B5F-BD36-4F3D73275783}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2860AED5-B47B-4B5F-BD36-4F3D73275783}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ADBC4A32-F721-4FF2-849C-6D40A003DBE2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADBC4A32-F721-4FF2-849C-6D40A003DBE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADBC4A32-F721-4FF2-849C-6D40A003DBE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADBC4A32-F721-4FF2-849C-6D40A003DBE2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{ADBC4A32-F721-4FF2-849C-6D40A003DBE2} = {9FBF0DF9-CEDB-4692-BB91-8FF4576037F0}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7BB43408-D498-47F8-897B-96A297D778A9}
+	EndGlobalSection
+EndGlobal
